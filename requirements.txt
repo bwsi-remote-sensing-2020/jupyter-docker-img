@@ -1,0 +1,10 @@
+openssh
+geopandas
+contextily
+pillow
+gdal
+rasterio
+boto3
+osmnx
+opencv
+
