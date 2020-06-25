@@ -7,4 +7,6 @@ rasterio
 boto3
 osmnx
 opencv
-
+pdal 
+python-pdal 
+entwine
